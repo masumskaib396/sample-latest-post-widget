@@ -1,11 +1,11 @@
 <?php 
 /*
 Plugin Name: Sample Latest Post widget
-Plugin URI: 
+Plugin URI: https://github.com/masumskaib396/sample-latest-post-widget
 Description: This Plugin Is Sample Latest Post Widget
 Version: 1.0.0
 Author: msakib
-Author URI: https://profiles.wordpress.org/captainhaddock/
+Author URI: https://profiles.wordpress.org/msakib/
 License: GPLv2 or later
 Text Domain: srpw
  */
@@ -13,7 +13,6 @@ Text Domain: srpw
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
 
 //Set plugin version constant.
 define( 'SRPW_VERSION', '1.0.0');

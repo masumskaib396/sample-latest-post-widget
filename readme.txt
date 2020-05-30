@@ -1,6 +1,6 @@
 === Latest Posts ===
 Contributors: msakib
-Donate link: http://shapedplugin.com
+Donate link: https://themepaw.com/
 Tags: posts widget, latest posts, latest posts widget, post thumbnails
 Requires at least: 4.0
 Tested up to: 5.4
